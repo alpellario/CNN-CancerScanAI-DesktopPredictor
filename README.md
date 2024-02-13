@@ -20,7 +20,14 @@ Welcome to the CancerScanAI-DesktopPredictor repository. This project is dedicat
 
 ## Description
 
-CancerScanAI is developed using Python and PyQt5, with a model trained on a dataset from Kaggle, featuring 277,524 histopathology images (198,738 non-cancerous and 78,786 cancerous). The dataset preparation, model creation, and training process are detailed in the `Breast-Cancer-Model-Training.ipynb` file. For practical purposes, this repository includes only a sample of 40 images, with a link to the full dataset available [here](https://drive.google.com/file/d/1Vjup229O_VNnTIYEvXWas8SJx_EyIm0I/view?usp=sharing).
+CancerScanAI is developed using Python and PyQt5, with a model trained on a dataset from Kaggle, featuring 277,524 histopathology images (198,738 non-cancerous and 78,786 cancerous). For practical purposes, this repository includes only a sample of 40 images, with a link to the full dataset available [here](https://drive.google.com/file/d/1Vjup229O_VNnTIYEvXWas8SJx_EyIm0I/view?usp=sharing).
+
+### Jupyter Notebook (Colab)
+
+The dataset preparation, model creation, and training process are detailed in the `Breast-Cancer-Model-Training.ipynb` file. 
+[You can view it directly in Colab.](https://colab.research.google.com/drive/1ch7X6XgT56P20w7Y1ILrdXCw6szbXmIC?usp=sharing)
+
+<img src="https://github.com/alpellario/CancerScanAI-DesktopPredictor/assets/74739828/31beeec0-b136-4494-961a-5ef925a71eba" width="800">
 
 ## Installation
 
