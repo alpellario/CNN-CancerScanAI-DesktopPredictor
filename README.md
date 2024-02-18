@@ -48,7 +48,7 @@ For UI customizations, download QT Designer from [this link](https://build-syste
 pyuic5 -x breastCancerDetectionUI.ui -o breastCancerDetectionUI.py
 ```
 Note: If you change the name of the `.py` file, remember to update the import statement in `app.py`.
-
+ 
 ## Usage
 
 - **Initial Settings:** Begin by selecting the `cancer_detection_model.h5` file in the project root.
